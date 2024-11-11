@@ -1,0 +1,17 @@
+h1 {
+    color: navy;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+p, a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.blue-border {
+    border-color: navy;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
